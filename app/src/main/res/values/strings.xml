@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Taller_1</string>
+    <string name="minimo">MÍNIMO</string>
+    <string name="maximo">MÁXIMO</string>
+    <string name="ingrese_n_mero_maximo">Número maximo</string>
+    <string name="ingrese_n_mero_minimo">Número minimo</string>
+</resources>
